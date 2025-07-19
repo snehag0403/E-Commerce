@@ -1,0 +1,502 @@
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/results.bin b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/results.bin
+new file mode 100644
+index 0000000..7ed749e
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/results.bin
+@@ -0,0 +1 @@
++o/bundleLibRuntimeToDirDebug
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/BuildConfig.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/BuildConfig.dex
+new file mode 100644
+index 0000000..2f942ab
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/BuildConfig.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$1.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$1.dex
+new file mode 100644
+index 0000000..2f5301a
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$1.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$2.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$2.dex
+new file mode 100644
+index 0000000..3616486
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$2.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$3.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$3.dex
+new file mode 100644
+index 0000000..b6b5955
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$3.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$GenericCallback.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$GenericCallback.dex
+new file mode 100644
+index 0000000..0a75610
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$GenericCallback.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$TaskConfig.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$TaskConfig.dex
+new file mode 100644
+index 0000000..a702d7a
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask$TaskConfig.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask.dex
+new file mode 100644
+index 0000000..d06fb45
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/HeadlessTask.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeApiModule.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeApiModule.dex
+new file mode 100644
+index 0000000..7a38862
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeApiModule.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeEventSubscriber.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeEventSubscriber.dex
+new file mode 100644
+index 0000000..ba4fe37
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeEventSubscriber.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeInitProvider.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeInitProvider.dex
+new file mode 100644
+index 0000000..2838729
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeInitProvider.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeePackage.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeePackage.dex
+new file mode 100644
+index 0000000..b66d63d
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeePackage.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeReactUtils.dex b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeReactUtils.dex
+new file mode 100644
+index 0000000..7d79ed5
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/io/invertase/notifee/NotifeeReactUtils.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin
+new file mode 100644
+index 0000000..926ba8d
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/3bbb6cef3438c7a508300f48912cae36/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin differ
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/results.bin b/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/transformed/classes/classes_dex/classes.dex b/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..3144f1c
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/.transforms/e5de66c9fea7f2298c82768e852b30e5/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/@notifee/react-native/android/build/generated/source/buildConfig/debug/io/invertase/notifee/BuildConfig.java b/node_modules/@notifee/react-native/android/build/generated/source/buildConfig/debug/io/invertase/notifee/BuildConfig.java
+new file mode 100644
+index 0000000..74e3dfc
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/generated/source/buildConfig/debug/io/invertase/notifee/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package io.invertase.notifee;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "io.invertase.notifee";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml b/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..5f3a3e2
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="io.invertase.notifee" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++    <application>
++        <provider
++            android:name="io.invertase.notifee.NotifeeInitProvider"
++            android:authorities="dollar_openBracket_applicationId_closeBracket.notifee-init-provider"
++            android:exported="false"
++            android:initOrder="-100" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json b/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+new file mode 100644
+index 0000000..073f925
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "io.invertase.notifee",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties b/node_modules/@notifee/react-native/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+new file mode 100644
+index 0000000..1211b1e
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+@@ -0,0 +1,6 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/@notifee/react-native/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar b/node_modules/@notifee/react-native/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar
+new file mode 100644
+index 0000000..6e50c3a
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/@notifee/react-native/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..15acc8d
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/@notifee/react-native/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..05c1725
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Fri Jun 06 14:36:33 IST 2025
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..1becd2c
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..757a869
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..5e72450
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/@notifee/react-native/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..634c184
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/build/intermediates/shader_assets/debug/compileDebugShaders/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/BuildConfig.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/BuildConfig.class
+new file mode 100644
+index 0000000..bad3580
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/BuildConfig.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$1.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$1.class
+new file mode 100644
+index 0000000..80eb8c4
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$1.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$2.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$2.class
+new file mode 100644
+index 0000000..8f70220
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$2.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$3.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$3.class
+new file mode 100644
+index 0000000..d807a51
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$3.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$GenericCallback.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$GenericCallback.class
+new file mode 100644
+index 0000000..e777d45
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$GenericCallback.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$TaskConfig.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$TaskConfig.class
+new file mode 100644
+index 0000000..5f3eb29
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask$TaskConfig.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask.class
+new file mode 100644
+index 0000000..39ad3cb
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/HeadlessTask.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeApiModule.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeApiModule.class
+new file mode 100644
+index 0000000..f0d6e4f
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeApiModule.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeEventSubscriber.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeEventSubscriber.class
+new file mode 100644
+index 0000000..b44a870
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeEventSubscriber.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeInitProvider.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeInitProvider.class
+new file mode 100644
+index 0000000..4e579a4
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeInitProvider.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeePackage.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeePackage.class
+new file mode 100644
+index 0000000..3c78af9
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeePackage.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeReactUtils.class b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeReactUtils.class
+new file mode 100644
+index 0000000..78b5fba
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/invertase/notifee/NotifeeReactUtils.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/@notifee/react-native/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt b/node_modules/@notifee/react-native/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..f850715
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,21 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="io.invertase.notifee" >
++4
++5    <uses-sdk android:minSdkVersion="24" />
++6
++7    <application>
++7-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:5:3-11:17
++8        <provider
++8-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:6:5-10:34
++9            android:name="io.invertase.notifee.NotifeeInitProvider"
++9-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:7:7-42
++10            android:authorities="${applicationId}.notifee-init-provider"
++10-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:8:7-67
++11            android:exported="false"
++11-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:9:7-31
++12            android:initOrder="-100" />
++12-->/Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:10:7-31
++13    </application>
++14
++15</manifest>
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml b/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+new file mode 100644
+index 0000000..44a4691
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="io.invertase.notifee" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++    <application>
++        <provider
++            android:name="io.invertase.notifee.NotifeeInitProvider"
++            android:authorities="${applicationId}.notifee-init-provider"
++            android:exported="false"
++            android:initOrder="-100" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json b/node_modules/@notifee/react-native/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/@notifee/react-native/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/BuildConfig.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/BuildConfig.class
+new file mode 100644
+index 0000000..bad3580
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/BuildConfig.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$1.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$1.class
+new file mode 100644
+index 0000000..80eb8c4
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$1.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$2.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$2.class
+new file mode 100644
+index 0000000..8f70220
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$2.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$3.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$3.class
+new file mode 100644
+index 0000000..d807a51
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$3.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$GenericCallback.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$GenericCallback.class
+new file mode 100644
+index 0000000..e777d45
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$GenericCallback.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$TaskConfig.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$TaskConfig.class
+new file mode 100644
+index 0000000..5f3eb29
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask$TaskConfig.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask.class
+new file mode 100644
+index 0000000..39ad3cb
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/HeadlessTask.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeApiModule.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeApiModule.class
+new file mode 100644
+index 0000000..f0d6e4f
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeApiModule.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeEventSubscriber.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeEventSubscriber.class
+new file mode 100644
+index 0000000..b44a870
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeEventSubscriber.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeInitProvider.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeInitProvider.class
+new file mode 100644
+index 0000000..4e579a4
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeInitProvider.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeePackage.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeePackage.class
+new file mode 100644
+index 0000000..3c78af9
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeePackage.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeReactUtils.class b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeReactUtils.class
+new file mode 100644
+index 0000000..78b5fba
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/io/invertase/notifee/NotifeeReactUtils.class differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar
+new file mode 100644
+index 0000000..cbd48ee
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar differ
+diff --git a/node_modules/@notifee/react-native/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/@notifee/react-native/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..bc9dab1
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++io.invertase.notifee
+diff --git a/node_modules/@notifee/react-native/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/@notifee/react-native/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..8ed9421
+--- /dev/null
++++ b/node_modules/@notifee/react-native/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,29 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:2:1-12:12
++INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:2:1-12:12
++	package
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:3:3-33
++		INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:2:11-69
++application
++ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:5:3-11:17
++provider#io.invertase.notifee.NotifeeInitProvider
++ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:6:5-10:34
++	android:authorities
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:8:7-67
++	android:exported
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:9:7-31
++	android:initOrder
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:10:7-31
++	android:name
++		ADDED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml:7:7-42
++uses-sdk
++INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml
++INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/kusum/Desktop/Interns-e-commerce/node_modules/@notifee/react-native/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/@notifee/react-native/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/@notifee/react-native/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..c98ec01
+Binary files /dev/null and b/node_modules/@notifee/react-native/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.h b/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.h
+index a636e6d..1124009 100644
+--- a/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.h
++++ b/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.h
+@@ -61,7 +61,7 @@ typedef NS_ENUM(NSInteger, NotifeeCoreEventType) {
+ @interface NotifeeCore : NSObject
+ 
+ + (void)setCoreDelegate:(id<NotifeeCoreDelegate>)coreDelegate;
+-
+++ (void)configureAppIcon:(UNMutableNotificationContent *)content;
+ + (void)cancelNotification:(NSString *)notificationId
+       withNotificationType:(NSInteger)notificationType
+                  withBlock:(notifeeMethodVoidBlock)block;
+diff --git a/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.m b/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.m
+index 8f308dd..c5cca0b 100644
+--- a/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.m
++++ b/node_modules/@notifee/react-native/ios/NotifeeCore/NotifeeCore.m
+@@ -180,7 +180,8 @@ + (void)displayNotification:(NSDictionary *)notification withBlock:(notifeeMetho
+   dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+     UNMutableNotificationContent *content = [self buildNotificationContent:notification
+                                                                withTrigger:nil];
+-
++// Ensure app icon is properly configured
++    [self configureAppIcon:content];
+     UNUserNotificationCenter *center = [UNUserNotificationCenter currentNotificationCenter];
+ 
+     NSMutableDictionary *notificationDetail = [notification mutableCopy];
+@@ -239,6 +240,8 @@ + (void)createTriggerNotification:(NSDictionary *)notification
+   dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+     UNMutableNotificationContent *content = [self buildNotificationContent:notification
+                                                                withTrigger:trigger];
++                                                                   
++[self configureAppIcon:content];
+     UNNotificationTrigger *unTrigger = [NotifeeCoreUtil triggerFromDictionary:trigger];
+ 
+     if (unTrigger == nil) {
+@@ -450,6 +453,9 @@ + (UNMutableNotificationContent *)buildNotificationContent:(NSDictionary *)notif
+         [NotifeeCoreUtil notificationAttachmentsFromDictionaryArray:iosDict[@"attachments"]];
+   }
+ 
++// Configure app icon before returning
++  [self configureAppIcon:content];
++  
+   return content;
+ }
+ 
+@@ -840,4 +846,29 @@ + (void)populateNotificationContent:(UNNotificationRequest *)request
+                                                          withContentHandler:contentHandler];
+ };
+ 
+++ (void)configureAppIcon:(UNMutableNotificationContent *)content {
++    // Force iOS to use the app's bundle icon
++    NSString *bundleIdentifier = [[NSBundle mainBundle] bundleIdentifier];
++    NSLog(@"NotifeeCore: Configuring notification for bundle: %@", bundleIdentifier);
++    
++    // Get app icon information from Info.plist
++    if (@available(iOS 15.0, *)) {
++        NSDictionary *infoPlist = [[NSBundle mainBundle] infoDictionary];
++        NSDictionary *icons = infoPlist[@"CFBundleIcons"];
++        if (icons) {
++            NSDictionary *primaryIcon = icons[@"CFBundlePrimaryIcon"];
++            if (primaryIcon) {
++                NSArray *iconFiles = primaryIcon[@"CFBundleIconFiles"];
++                if (iconFiles && iconFiles.count > 0) {
++                    NSLog(@"NotifeeCore: App icon files found: %@", iconFiles);
++                }
++            }
++        }
++    }
++    
++    // Force content refresh to ensure proper icon binding
++    if (content.title) {
++        content.title = [content.title copy];
++    }
++}
+ @end

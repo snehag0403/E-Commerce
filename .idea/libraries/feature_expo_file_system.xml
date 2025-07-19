@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-expo-file-system">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/expo-file-system/android/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-expo-file-system.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

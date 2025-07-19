@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-notifee_react-native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@notifee/react-native/android/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-notifee_react-native.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.10.2/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae10.iml" filepath="$PROJECT_DIR$/android/.gradle/8.10.2/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.5/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae11.iml" filepath="$PROJECT_DIR$/android/.gradle/8.5/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.7/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae12.iml" filepath="$PROJECT_DIR$/android/.gradle/8.7/dependencies-accessors/569c8b261a8a714d7731d5f568e0e5c05babae10/569c8b261a8a714d7731d5f568e0e5c05babae12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.7/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60782.iml" filepath="$PROJECT_DIR$/android/.gradle/8.7/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60782.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.5/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60783.iml" filepath="$PROJECT_DIR$/android/.gradle/8.5/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60783.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/.gradle/8.10.2/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60784.iml" filepath="$PROJECT_DIR$/android/.gradle/8.10.2/dependencies-accessors/633563da484e97172e803ec54a276bf953e60782/633563da484e97172e803ec54a276bf953e60784.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/app.iml" filepath="$PROJECT_DIR$/android/app/src/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/generated/autolinking/autolinking.iml" filepath="$PROJECT_DIR$/android/app/build/generated/autolinking/autolinking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/android/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/merged_manifest/release/processReleaseMainManifest/processReleaseMainManifest.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/merged_manifest/release/processReleaseMainManifest/processReleaseMainManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/merged_manifests/release/processReleaseManifest/processReleaseManifest.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/merged_manifests/release/processReleaseManifest/processReleaseManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/packaged_manifests/release/processReleaseManifestForPackage/processReleaseManifestForPackage.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/packaged_manifests/release/processReleaseManifestForPackage/processReleaseManifestForPackage.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-react-native-firebase_messaging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-react-native-firebase_messaging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

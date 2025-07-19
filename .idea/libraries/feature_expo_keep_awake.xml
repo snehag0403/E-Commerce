@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-expo-keep-awake">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/expo-keep-awake/android/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-expo-keep-awake.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

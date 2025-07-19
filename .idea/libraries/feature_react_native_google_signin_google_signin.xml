@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-react-native-google-signin_google-signin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-react-native-google-signin_google-signin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

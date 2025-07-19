@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682390120484",
+    "project_id": "e-commerce-signinwith",
+    "storage_bucket": "e-commerce-signinwith.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682390120484:android:f363aab91ea846ec4550b1",
+        "android_client_info": {
+          "package_name": "com.anonymous.snapshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682390120484-n8muiuubguk822rtstqlmn0u3jo1nebp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.snapshop",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "682390120484-agk45uo1d6pi039acrraldll41jdj11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLgRPZ63BON15MP4H-SJZ_i8Rm_bv2vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682390120484-agk45uo1d6pi039acrraldll41jdj11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
